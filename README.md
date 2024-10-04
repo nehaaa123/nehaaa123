@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neha
-- 🌱 I’m currently working on my skills ...
+- 🌱 Currently working on my skills ...
 
 
 <!---
